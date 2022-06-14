@@ -96,4 +96,10 @@ Now Train model using this refernce [Training step by step code](https://colab.r
  
 Now predict gun in image taken randomly using YOLOv3 , OpenCV , Matplotlib libraries.
 
-Code given in inference demo.ipynb
+Code given in my file [inference demo.ipynb](https://github.com/meetshah2008/Weapon-Detection-/blob/master/inference%20demo.ipynb)
+
+![Screenshot 2022-06-14 175931](https://user-images.githubusercontent.com/76108073/173577624-814b0f91-b03b-4f20-b995-14cd6d9c02cc.png)
+![Screenshot 2022-06-14 175846](https://user-images.githubusercontent.com/76108073/173577611-cf3906ab-27ed-4063-a441-c135d7d23801.png)
+
+## Weakness
+![Screenshot 2022-06-14 180007](https://user-images.githubusercontent.com/76108073/173577651-74bfd074-e287-4723-a17f-a623bf018ee0.png)
