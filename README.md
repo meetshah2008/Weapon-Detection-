@@ -91,10 +91,12 @@ Next,I zip darknet folder and upload it on Google Drive. Create a new folder in 
 ## Training On COLAB
  
 Now Train model using this refernce [Training step by step code](https://colab.research.google.com/drive/13-9pAz9nxUYm-0LlNV9tVtS57g8mHAOb)
+  
+This will give us Weights file and this can be further use for detection. 
  
 ## Predict With YOLOv3 Using OpenCV
  
-Now predict gun in image taken randomly using YOLOv3 , OpenCV , Matplotlib libraries.
+Now predict gun in randomly taken image using YOLOv3 , OpenCV , Matplotlib libraries and using Weights and congiguaration file .
 
 Code given in my file [inference demo.ipynb](https://github.com/meetshah2008/Weapon-Detection-/blob/master/inference%20demo.ipynb)
 
